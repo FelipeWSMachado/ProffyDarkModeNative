@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "ProffyDarkModeMobile",
+    "slug": "proffydarkmodemobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/assets/icon.png",
+    "splash": {
+      "image": "./src/assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./src/assets/favicon.png"
+    },
+    "description": "App mobile criado na NLW de agosto de 2020, modificado para o modo dark e com melhorias e modificações de layout. ",
+    "githubUrl": "https://github.com/FelipeWSMachado/ProffyMobileDarkMode"
+  }
+}
