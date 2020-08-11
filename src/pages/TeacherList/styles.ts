@@ -48,14 +48,7 @@ const styles = StyleSheet.create({
     fontFamily: 'Archivo_700Bold',
     fontSize: 16, 
   },
-  inputIOS:{
-   fontFamily: 'Poppins_400Regular',
-   borderColor: '#fff'
-  
-  },
-  pickerSelectAndroid:{
 
-  }
 })
 
 export default styles;

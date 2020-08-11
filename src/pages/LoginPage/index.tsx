@@ -62,6 +62,7 @@ function Login() {
             placeholder="Email"
             placeholderTextColor="#c1bccc"
             />
+            <Text>Esqueceu a senha?</Text>
             <Text style={styles.label}>Senha</Text>
             <TextInput 
             style={styles.input}
